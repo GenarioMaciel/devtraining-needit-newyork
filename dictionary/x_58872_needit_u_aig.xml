@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Números AGR" max_length="40" name="x_58872_needit_u_aig" sizeclass="1" type="collection">
+        <element label="Número" max_length="15" name="u_numero" type="string"/>
+    </element>
+</database>

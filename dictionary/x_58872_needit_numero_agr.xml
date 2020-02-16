@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="numero AGR" max_length="40" name="x_58872_needit_numero_agr" type="collection">
+        <element label="Descrição" max_length="80" name="u_descricao_agr" type="string"/>
+        <element label="Número" mandatory="true" max_length="50" name="u_numero_agr" type="string"/>
+    </element>
+</database>

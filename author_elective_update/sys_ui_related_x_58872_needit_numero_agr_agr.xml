@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_related action="DELETE" sys_domain="global" table="x_58872_needit_numero_agr" version="2" view="agr">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Numero AGR - AGR" name="x_58872_needit_numero_agr" related_list="NULL" sys_domain="global" view="b39aa65cdb870010c096e1bb4b9619de">739aaa5cdb870010c096e1bb4b961986</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-02-14 21:10:46</sys_created_on>
+            <sys_id>bb9aaa5cdb870010c096e1bb4b961986</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-02-14 21:10:46</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>Numero AGR - AGR</calculated_name>
+            <filter/>
+            <name>x_58872_needit_numero_agr</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-02-14 21:10:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>739aaa5cdb870010c096e1bb4b961986</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Numero AGR - AGR</sys_name>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_ui_related_x_58872_needit_numero_agr_agr</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-02-14 21:10:46</sys_updated_on>
+            <sys_user/>
+            <view display_value="AGR" name="agr">b39aa65cdb870010c096e1bb4b9619de</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>ab5698b8dba61b80439ef70fbf96196c</instance_id>
+        <instance_name>dev60535</instance_name>
+        <name>sys_ui_related_x_58872_needit_numero_agr_agr</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_related sys_domain="global" table="x_58872_needit_numero_agr" version="2" view="agr"><sys_ui_related_list_entry action="INSERT_OR_UPDATE"><filter/><list_id display_value="Numero AGR - AGR" name="x_58872_needit_numero_agr" related_list="NULL" sys_domain="global" view="b39aa65cdb870010c096e1bb4b9619de">739aaa5cdb870010c096e1bb4b961986</list_id><order_by/><position>0</position><related_list/><sys_class_name>sys_ui_related_list_entry</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-02-14 21:10:46</sys_created_on><sys_id>bb9aaa5cdb870010c096e1bb4b961986</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-02-14 21:10:46</sys_updated_on></sys_ui_related_list_entry><sys_ui_related_list action="INSERT_OR_UPDATE"><calculated_name>Numero AGR - AGR</calculated_name><filter/><name>x_58872_needit_numero_agr</name><order_by/><position/><related_list/><sys_class_name>sys_ui_related_list</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-02-14 21:10:46</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>739aaa5cdb870010c096e1bb4b961986</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Numero AGR - AGR</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ui_related_x_58872_needit_numero_agr_agr</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-02-14 21:10:46</sys_updated_on><sys_user/><view display_value="AGR" name="agr">b39aa65cdb870010c096e1bb4b9619de</view><view_name/></sys_ui_related_list></sys_ui_related></record_update>]]></payload>
+        <payload_hash>1715288672</payload_hash>
+        <record_name>Numero AGR</record_name>
+        <reverted_from/>
+        <source>7ba0ad90db830010c096e1bb4b961965</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-14 21:10:46</sys_created_on>
+        <sys_id>00aaaa5cdb870010c096e1bb4b961988</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>170458a26e90000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-14 21:10:46</sys_updated_on>
+        <type>Related Lists</type>
+        <update_guid>88aaaa5c418700103ff632528cffa587</update_guid>
+        <update_guid_history>88aaaa5c418700103ff632528cffa587:1715288672</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-14 21:20:56</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_related_list">sys_ui_related_list</sys_db_object>
+        <sys_id>d9632e667a2145189dfb24d93b681010</sys_id>
+        <sys_metadata>739aaa5cdb870010c096e1bb4b961986</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Numero AGR - AGR</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="">7608ee98db870010c096e1bb4b9619df</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ui_related_x_58872_needit_numero_agr_agr</sys_update_name>
+        <sys_update_version display_value="sys_ui_related_x_58872_needit_numero_agr_agr">00aaaa5cdb870010c096e1bb4b961988</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-14 21:20:56</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
